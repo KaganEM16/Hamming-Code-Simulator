@@ -1,4 +1,4 @@
-# Hamming SEC-DED Code Simulator (Java Swing)
+# Hamming SEC-DED Code Simulator With Java
 
 Bu proje, **BLM230 Bilgisayar Mimarisi** dersi kapsamında geliştirilmiş bir **Hamming SEC-DED (Single Error Correcting, Double Error Detecting) kod simülatörüdür**. Proje, Java Swing kullanılarak görsel kullanıcı arayüzü ile oluşturulmuştur.
 
@@ -12,7 +12,9 @@ Bu proje, **BLM230 Bilgisayar Mimarisi** dersi kapsamında geliştirilmiş bir *
 
 ## 📸 Arayüz Görseli
 
-* Daha sonra eklenecek.
+<img src="ProjeResimleri/Resim 1.png" width="500" alt="Resim 1 Açıklaması">
+<img src="ProjeResimleri/Resim 2.png" width="500" alt="Resim 2 Açıklaması">
+<img src="ProjeResimleri/Resim 3.png" width="500" alt="Resim 3 Açıklaması">
 
 ## 🚀 Kurulum ve Çalıştırma
 
@@ -37,7 +39,8 @@ Bu proje, **BLM230 Bilgisayar Mimarisi** dersi kapsamında geliştirilmiş bir *
 
 ## 📘 Proje Açıklaması (Özet)
 
-Simülatör, belleğe yazılacak veriler için Hamming kodunu hesaplayarak saklamayı ve hatalı bitleri bulup düzelterek verinin güvenilirliğini sağlamayı hedefler. Kullanıcı dostu bir arayüz aracılığıyla bu işlemler görsel olarak deneyimlenebilir.
+* Simülatör, belleğe yazılacak veriler için Hamming kodunu hesaplayarak saklamayı ve hatalı bitleri bulup düzelterek verinin güvenilirliğini sağlamayı hedefler. Kullanıcı dostu bir arayüz aracılığıyla bu işlemler görsel olarak deneyimlenebilir.
+* [Projenin Detaylı Dokümantasyonuna Bu Linkten Ulaşabilirsiniz] (Daha Sonra Eklenecektir.)
 
 ## 🎥 Demo Videosu
 

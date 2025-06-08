@@ -40,7 +40,6 @@ Bu proje, **BLM230 Bilgisayar Mimarisi** dersi kapsamında geliştirilmiş bir *
 ## 📘 Proje Açıklaması (Özet)
 
 * Simülatör, belleğe yazılacak veriler için Hamming kodunu hesaplayarak saklamayı ve hatalı bitleri bulup düzelterek verinin güvenilirliğini sağlamayı hedefler. Kullanıcı dostu bir arayüz aracılığıyla bu işlemler görsel olarak deneyimlenebilir.
-* [Projenin Detaylı Dokümantasyonuna Bu Linkten Ulaşabilirsiniz] (Daha Sonra Eklenecektir.)
 
 ## 🎥 Demo Videosu
 
